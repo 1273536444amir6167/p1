@@ -1,0 +1,3 @@
+C:/Users/NP/Desktop/AI Challenge/CPP_Projects/p1/cmake-build-debug/CMakeFiles/p1.dir
+C:/Users/NP/Desktop/AI Challenge/CPP_Projects/p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NP/Desktop/AI Challenge/CPP_Projects/p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
